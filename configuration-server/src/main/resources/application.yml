@@ -1,0 +1,8 @@
+server:
+  port: ${PORT:8888}
+  
+info:
+  component: "FashionArmy's Cloud Configuration Server."
+  
+management:
+  context-path: /master

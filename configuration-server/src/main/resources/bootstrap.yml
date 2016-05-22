@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: configuration-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/FashionArmy/configurations.git
+          username: eriksonmurrugarra.dev@gmail.com
+          password: erik9687son2610
